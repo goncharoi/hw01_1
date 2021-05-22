@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hw01_1</string>
+    <string name="checkBox">CheckBox</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textEdit">Сюда можно вводить \nтекст</string>
+    <string name="btnStart">Пуск</string>
+    <string name="textview">Это какая-то кнопка Выключатель</string>
+    <string name="toggle">Какой-то выключатель</string>
+    <string name="sw">Какой-то переключатель</string>
+    <string name="textEditHint">Напиши сюда</string>
+</resources>
